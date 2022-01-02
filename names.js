@@ -30,7 +30,8 @@ let namesList = [
   'Anwar.nega',
   'Am4del',
   '_h_e___v_a',
-  'Rwpak._.rahim'
+  'Rwpak._.rahim',
+  'Arazw_hsen',
 ];
 
 namesList = _.shuffle(namesList);
