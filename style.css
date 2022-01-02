@@ -7,17 +7,14 @@ img {
 	max-width: 100%;
 }
 
-
 h1#headerNames {
-	margin-top: 10%;
+	margin-top: 0;
 	color: #ea5456;
 	font-family: Georgia, serif;
 	font-size: 100px;
 	text-align: center;
 	cursor: pointer;
 }
-
-
 
 .button {
 	width: 150px;
@@ -56,11 +53,11 @@ h1#headerNames {
 	opacity: 1;
 }
 
-
 #ImageContainer {
 	text-align: center;
 	padding-top: 70px;
 }
+
 img {
 	width: 400px;
 }
