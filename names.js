@@ -9,7 +9,6 @@ let namesList = [
   'Am4del',
   'Amin12344913',
   'Anwar.nega',
-  'Anwar.nega',
   'Arazw_hsen',
   'Aushww123in',
   'bi__work',
