@@ -1,39 +1,7 @@
 "use strict";
 
 const showTimer = true;
-
 // Add list of names here
-let namesList = [
-  '_h_e___v_a',
-  '5hajam',
-  'Am4del',
-  'Amin12344913',
-  'Anwar.nega',
-  'Arazw_hsen',
-  'Aushww123in',
-  'bi__work',
-  'Char.ali3',
-  'Dansqa.shopp',
-  'Hazan.xanm',
-  'Itzz.casperr',
-  'k_a_r_m_a.n',
-  'kale_aziz0',
-  'Kaleahmed96',
-  'kcha.hawramy.771',
-  'mada__sweet',
-  'Mhamad.ibrahim1',
-  'Nila.aziz0',
-  'nyaplease',
-  'rabar__2',
-  'Rwpak._.rahim',
-  'Sham.abas',
-  'Shawnmjalil',
-  'shazada_yamur',
-  'Srwa Saade',
-  'srwsht_ss',
-  'zhirorasul',
-];
-
 namesList = _.shuffle(namesList);
 
 function checkSecond(sec) {
@@ -65,7 +33,7 @@ startButton.addEventListener('click', function () {
   setTimeout(function () {
     stopTimer();
 
-  }, 5000);
+  }, 15000);
 
 });
 
